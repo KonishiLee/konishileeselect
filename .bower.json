@@ -1,0 +1,37 @@
+{
+  "name": "select",
+  "main": "js/select.js",
+  "version": "0.6.1",
+  "homepage": "https://github.com/HubSpot/select",
+  "authors": [
+    "Zack Bloom <zbloom@hubspot.com>",
+    "Adam Schwartz <aschwartz@hubspot.com>"
+  ],
+  "description": "Styleable select elements built on Tether",
+  "keywords": [
+    "select",
+    "options",
+    "javascript",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tether": "~0.6.5"
+  },
+  "_release": "0.6.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.6.1",
+    "commit": "69741fe57e0425aa02a0d844d01bb9a9c625bbf2"
+  },
+  "_source": "git://github.com/HubSpot/select.git",
+  "_target": "~0.6.1",
+  "_originalSource": "select"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "konishileeselect",
+  "version": "1.0.1",
+  "description": "Styleable select elements built on Tether",
+  "authors": [
+    "KonishiLee"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-script": "~1.6.3",
+    "gulp": "~3.3.0",
+    "gulp-header": "~1.0.2",
+    "gulp-uglify": "~0.1.0",
+    "gulp-compass": "~1.0.3",
+    "gulp-coffee": "~1.2.5",
+    "gulp-concat": "~2.1.7",
+    "gulp-rename": "~0.2.1",
+    "gulp-util": "~2.2.9"
+  },
+  "main": "select.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "select"
+  ],
+  "author": {
+    "name": "KonishiLee"
+  },
+  "_shasum": "78df96f64d371ec25a12edf6c7d6ce0cace558d5",
+  "_from": "konishileeselect@>=1.0.0 <1.1.0",
+  "_id": "konishileeselect@1.0.1",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "konishilee",
+    "email": "519807609@qq.com"
+  },
+  "dist": {
+    "shasum": "78df96f64d371ec25a12edf6c7d6ce0cace558d5",
+    "size": 79583,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/konishileeselect/download/konishileeselect-1.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "konishilee",
+      "email": "519807609@qq.com"
+    }
+  ],
+  "publish_time": 1453170589865,
+  "_cnpm_publish_time": 1453170589865,
+  "_resolved": "https://registry.npm.taobao.org/konishileeselect/download/konishileeselect-1.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
